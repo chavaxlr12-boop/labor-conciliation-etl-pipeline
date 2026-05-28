@@ -1,0 +1,16 @@
+Nombre de la base y/o conjunto de datos,Etiqueta del campo o variable (atributo),Descripción,Tipo de dato,Rango o valores que permite el campo,Especificaciones y/o reglas de cálculo
+2025_2026_registros_concilaciones_laborales,mes_registro,Mes en que se registra la conciliacion,Alfanumerico,"enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre",No aplica
+2025_2026_registros_concilaciones_laborales,periodo_registro,Año en que se registra la conciliacion,numerico,aaaa,Tiene una longitud de 4 digitos 
+2025_2026_registros_concilaciones_laborales,entidad_registro,Entidad Federativa donde se registra la conciliacion,Alfanumerico,Abierto,No aplica
+2025_2026_registros_concilaciones_laborales,municipio_registro,Municipio Federativa donde se registra la conciliacion,Alfanumerico,abierto,No aplica
+2025_2026_registros_concilaciones_laborales,ubicacion_establecimiento,Municipio donde se ubica el establecimiento,Alfanumerico,abierto,No aplica
+2025_2026_registros_concilaciones_laborales,total_trabajadores,Total de personas trabajadoras involucradas en la conciliacion,numerico,numero entero,Tiene una longitud de 5 digitos 
+2025_2026_registros_concilaciones_laborales,total_hombres,Total de hombres involucrados.,numerico,numero entero,Tiene una longitud de 5 digitos 
+2025_2026_registros_concilaciones_laborales,total_mujeres,Total de mujeres involucradas.,numerico,numero entero,Tiene una longitud de 5 digitos 
+2025_2026_registros_concilaciones_laborales,total_no_especificado,Total de personas cuyo sexo no fue especificado.,numerico,numero entero,Tiene una longitud de 5 digitos 
+2025_2026_registros_concilaciones_laborales,actividad_economica,Descripcion textual de la actividad economica del establecimiento.,Alfanumerico,abierto,No aplica
+2025_2026_registros_concilaciones_laborales,motivo_convenio,Motivo principal de la conciliacion laboral,Alfanumerico,abierto ,No aplica
+2025_2026_registros_concilaciones_laborales,modalidad_contrato,Modalidad del contrato laboral.,Alfanumerico,abierto ,No aplica
+2025_2026_registros_concilaciones_laborales,clase_contrato,Tipo de contrato asociado.,Alfanumerico,abierto ,No aplica
+2025_2026_registros_concilaciones_laborales,monto_pago,Monto del pago obtenido por la persona trabajadora derivado de la conciliacion (en moneda nacional),numerico,000000000–999999999,Tiene una longitud de 9 digitos 
+2025_2026_registros_concilaciones_laborales,estatus_expediente,Estatus final del expediente.,Alfanumerico,abierto ,No aplica
